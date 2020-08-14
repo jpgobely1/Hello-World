@@ -1,3 +1,3 @@
 # Hello-World
 
-Hello, I am Jordan and I am about to start a coding bootcamp with KU! I am fairly new to coding and will be doing my best to learn as much about it as possible over the next six months.
+Hello, I am Jordan. I am an aspiring Data Scientist. I am going to be uploading all of the coursework that I feel is relevant to data science on Github to demonstrate my abilities and to show progression from where I started my coding journey to the possibilites it unlocks. Thank you for viewing.
